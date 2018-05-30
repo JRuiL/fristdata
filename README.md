@@ -1,0 +1,2 @@
+# fristdata
+my frist code
